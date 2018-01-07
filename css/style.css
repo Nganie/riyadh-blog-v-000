@@ -8,7 +8,9 @@ html, body {
 }
 
 body {
-  background: linear-gradient(to right, #00cc66 to #004d26);
+  background-colo: -webkit-linear-gradient(left, #00cc66);
+  background-colo: -o-linear-gradient(left, #00cc66);
+  background-colo: linear-gradient(to right, #00cc66);
   font-family: 'Bellefair', serif;;
   font-size: 100%;
 }
