@@ -8,7 +8,7 @@ html, body {
 }
 
 body {
-  background: linear-gradient(to right, blue to black);
+  background: linear-gradient(to right, #00cc66 to #004d26);
   font-family: 'Bellefair', serif;;
   font-size: 100%;
 }
